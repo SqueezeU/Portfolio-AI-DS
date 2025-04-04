@@ -22,6 +22,9 @@ Modelo de machine learning para predicción simple, implementado en Python.
 ### 🧠 [RAG_LLM](./RAG_LLM)
 Aplicación local de **Retrieval-Augmented Generation (RAG)** usando herramientas como GPT4All, LangChain y llama-index.
 
+🔗 **[Presentación visual (PPSX)](./RAG_LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)**  
+Resumen visual de mi recorrido por la IA generativa.
+
 ### 📄 [Docs](./Docs)
 PDFs, documentación de flujos y recursos relacionados con mis proyectos.
 
