@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/errol-github-header.png" alt="Errol GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SqueezeU/Portfolio-AI-DS/main/assets/errol-github-header.png" alt="Errol GitHub Banner" width="100%">
+
 </p>
 
 Bienvenido a mi portfolio de proyectos prácticos relacionados con la ciencia de datos y la inteligencia artificial generativa.
