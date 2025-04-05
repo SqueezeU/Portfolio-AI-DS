@@ -46,7 +46,7 @@ Desarrollos propios de asistentes conversacionales, basados en modelos de lengua
 
 - Python · Jupyter · KNIME · Power BI  
 - LangChain · GPT4All · Ollama · llama-index  
-- GitHub · VS Code · Anaconda
+- GitHub · Gamma · Anaconda
 
 ---
 
