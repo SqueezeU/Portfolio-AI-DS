@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9a8b-13175f2de9a9" alt="Errol GitHub Banner" width="80%">
+  <img src="![errol-github-header](https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9) width="80%">
 </p>
 
 
 
-# ![errol-github-header](https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9)
-
-
+![errol-github-header](https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9)
 
 
 Bienvenido a mi portfolio de proyectos prácticos relacionados con la ciencia de datos y la inteligencia artificial generativa.
