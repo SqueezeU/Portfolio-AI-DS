@@ -39,7 +39,7 @@ Utiliza documentos locales combinados con generación de respuestas mediante GPT
 
 ## 🔐 Cómo usar la API de OpenAI localmente
 
-El archivo [`API_Key_OpenAI.md`](Chatbots/API_Key_OpenAI.md) explica cómo añadir tu clave de API de OpenAI como variable de entorno local (Windows), sin escribirla en el código.
+El archivo [**API_Key_OpenAI.md**](Chatbots/API_Key_OpenAI.md) explica cómo añadir tu clave de API de OpenAI como variable de entorno local (Windows), sin escribirla en el código.
 
 ⚠️ **Las claves API nunca deben subirse a GitHub.**
 
