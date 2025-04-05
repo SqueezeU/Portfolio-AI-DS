@@ -1,3 +1,11 @@
+
+
+
+![errol-github-header](https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9)
+
+
+
+
 Bienvenido a mi portfolio de proyectos prácticos relacionados con la ciencia de datos y la inteligencia artificial generativa.
 
 Soy Errol Dickl, analista de datos formado en el ámbito de IA y Data Science en el campus IMPÈLIA (Barcelona), con experiencia práctica en herramientas como Power BI, Python, Prompt Engineering, RAG local y flujos ETL/EDA.  
