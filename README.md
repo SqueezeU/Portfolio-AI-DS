@@ -11,28 +11,34 @@
   </tr>
 </table>
 
-## 🧠 Contenido del portfolio
+## 🌸 Contenido del portfolio
 
-### 📊 [PowerBI](./PowerBI)
-Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos.
+### 📊 [PowerBI](./PowerBI)  
+Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos.  
+📎 [Ejercicio 1 (PBIX)](./PowerBI/Dickl_Ej1.pbix)  
+👉 **Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio.**
 
-### 🧩 [ETL_KNIME](./ETL_KNIME)
-Proceso de extracción, transformación y carga utilizando el entorno visual KNIME.
+### 🧩 [ETL_KNIME](./ETL_KNIME)  
+Proceso de extracción, transformación y carga utilizando el entorno visual KNIME.  
+📎 [Flujo de trabajo (.knwf)](./ETL_KNIME/Project_2_ETL.knwf)  
+👉 **Incluye flujo completo y documentación de todos los nodos utilizados.**
 
-### 🐍 [ETL_Python](./ETL_Python)
-Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.
+### 🐍 [ETL_Python](./ETL_Python)  
+Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.  
+👉 **Estructura inicial creada – contenido en preparación.**
 
-### 🤖 [ML_Prediction](./ML_Prediction)
-Modelo de machine learning para predicción simple, implementado en Python.
+### 🤖 [ML_Prediction](./ML_Prediction)  
+Modelo de machine learning para predicción simple, implementado en Python.  
+👉 **Estructura inicial creada – contenido en preparación.**
 
-### 🧠 [RAG_LLM](./RAG_LLM)
-Aplicación local de **Retrieval-Augmented Generation (RAG)** usando herramientas como GPT4All, LangChain y llama-index.
+### 🧠 [RAG_LLM](./RAG_LLM)  
+Aplicación local de **Retrieval-Augmented Generation (RAG)** usando herramientas como GPT4All, LangChain y llama-index.  
+📎 [Presentación visual (PPSX)](./RAG_LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)  
+👉 **Resumen visual de mi recorrido por la IA generativa.**
 
-🔗 **[Presentación visual (PPSX)](./RAG-LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)**  
-Resumen visual de mi recorrido por la IA generativa.
-
-### 📄 [Docs](./Docs)
-PDFs, documentación de flujos y recursos relacionados con mis proyectos.
+### 💬 [Chatbots](./Chatbots)  
+Desarrollos propios de asistentes conversacionales, basados en modelos de lenguaje grandes (LLMs).  
+👉 **Incluye ejemplos locales (llama-index) y en la nube (Gradio con GPT-4).**
 
 ---
 
