@@ -28,7 +28,7 @@ El objetivo era construir un modelo de predicción del precio de viviendas en al
 
 🔹 **Mi contribución:**  
 - Limpieza y transformación de datos (ETL)  
-- Visualización de variables clave en Power BI  
+- Visualización de variables clave en Power BI
 - Coordinación del flujo de datos hacia el modelo
 
 🔹 **Contribución de mi compañero Javier de Andrés Martínez:**  
