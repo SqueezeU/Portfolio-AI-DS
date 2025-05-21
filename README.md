@@ -24,7 +24,8 @@ Proceso de extracción, transformación y carga utilizando el entorno visual KNI
 👉 **Incluye flujo completo y documentación de todos los nodos utilizados.**
 
 ### 🐍 [ETL_Python](./ETL_Python)  
-Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.  
+Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.
+📄 [Notebook (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)
 👉 **Estructura inicial creada – contenido en preparación.**
 
 ### 🧠 [Audio-to-FAQ Whisper (Python)](./Audio-to-FAQ%20Whisper%20(Python))
