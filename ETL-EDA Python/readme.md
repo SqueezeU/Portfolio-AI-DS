@@ -1,4 +1,4 @@
-# 🐍 ETL, EDA & ML predicion con Python – Proyecto 1
+# 🐍 ETL, EDA & ML Predicción con Python – Proyecto 1
 
 Este proyecto forma parte del primer proyecto práctico desarrollado en el marco del programa de especialización en IA y Ciencia de Datos (IMPÈLIA).
 
