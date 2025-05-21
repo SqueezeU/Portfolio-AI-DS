@@ -1,4 +1,4 @@
-# 🤖 Predicción con Machine Learning – Proyecto 1 y 2
+# 🤖 Predicción con Machine Learning – Proyecto 1 & 2
 
 Este apartado contiene dos proyectos prácticos centrados en modelos de predicción con Python y herramientas de AutoML.
 
