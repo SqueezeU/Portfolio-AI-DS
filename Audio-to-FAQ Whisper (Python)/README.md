@@ -1,4 +1,4 @@
-# 📁 Proyecto – Transcripción de audio y generación de FAQ con Whisper
+# 📁 Transcripción de audio y generación de FAQ con Whisper
 
 Este proyecto forma parte de un flujo de trabajo para convertir llamadas reales en una base de datos estructurada con preguntas frecuentes (FAQ).  
 Se utiliza el modelo **Whisper** de OpenAI para realizar transcripciones de manera automática y **sin conexión** (instalación local).
