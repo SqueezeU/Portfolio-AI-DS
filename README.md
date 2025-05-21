@@ -27,6 +27,10 @@ Proceso de extracción, transformación y carga utilizando el entorno visual KNI
 Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.  
 👉 **Estructura inicial creada – contenido en preparación.**
 
+### 🧠 Audio-to-FAQ Whisper (Python)
+Extracción automatizada de texto desde audios reales mediante Whisper, con generación manual de un catálogo de preguntas frecuentes (FAQ).  
+Incluye script Python, documentación técnica y JSON con resultados estructurados.
+
 ### 🤖 [ML_Prediction](./ML_Prediction)  
 Modelo de machine learning para predicción simple, implementado en Python.  
 👉 **Estructura inicial creada – contenido en preparación.**
