@@ -29,7 +29,8 @@ Flujos ETL en Python, con lectura de archivos, limpieza y preparación de datos.
 
 ### 🧠 [Audio-to-FAQ Whisper (Python)](./Audio-to-FAQ%20Whisper%20(Python))
 Extracción automatizada de texto desde audios reales mediante Whisper, con generación manual de un catálogo de preguntas frecuentes (FAQ).  
-Incluye script Python, documentación técnica y JSON con resultados estructurados.
+Incluye script Python, documentación técnica y JSON con resultados estructurados.  
+👉 Contenido completo disponible – documentación incluida.
 
 ### 🤖 [ML_Prediction](./ML_Prediction)  
 Modelo de machine learning para predicción simple, implementado en Python.  
