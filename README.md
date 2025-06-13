@@ -32,12 +32,12 @@ Bienvenido a mi portfolio de proyectos prácticos relacionados con...
 
 ### 📊 [PowerBI](./PowerBI)  
 Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos.  
-🔗 [Exercise 1 (PBIX)](PowerBI/"Dickl, Errol - Ej1.pbix")
+🔗 [Exercise 1 (PBIX)](./PowerBI/Dickl,%20Errol%20-%20Ej1.pbix)
 👉 Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio.
 
 ### 🧩 [ETL_EDA_KNIME](./ETL_EDA_KNIME)  
 Proceso de extracción, transformación y carga utilizando el entorno visual KNIME.  
-🔗 [Flujo de trabajo (.knwf)](./ETL_EDA_KNIME/Project 2 ETL.knwf)
+🔗 [Flujo de trabajo (.knwf)](./ETL_EDA_KNIME/Project%202%20ETL.knwf)
 👉 **Incluye flujo completo y documentación de todos los nodos utilizados.**
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
