@@ -1,9 +1,11 @@
 AI & Data Science Portfolio
 
-🔍 **What I bring to the table**  
-*"I combine hands-on AI projects with 20+ years of business operations experience.  
-My focus: Building practical tools – like RAG document assistants or pricing predictors –  
-that solve real-world problems. Currently expanding my skills in local LLMs."*
+🔍 **Lo que aporto**  
+*"Combino proyectos prácticos de IA con más de 20 años de experiencia en operaciones empresariales.  
+Mi enfoque: Construir herramientas prácticas – como asistentes de documentos RAG o predictores de precios –  
+que resuelvan problemas del mundo real. Actualmente amplío mis habilidades en LLMs locales."*
+
+Bienvenido a mi portfolio de proyectos prácticos relacionados con...
 
 <table>
   <tr>
