@@ -58,7 +58,7 @@ Incluye script Python, documentación técnica y JSON con resultados estructurad
 ### 🤖 [ML_Prediction](./ML%20Prediction)
 Dos proyectos de predicción: uno con Python (vease ETL_Python) y otro mediante herramientas de AutoML (low-code).  
 📄 [Modelo AutoML (`.pdf`)](./ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regressor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf)  
-👉 Contenido estructurado disponible – incluye comparación entre enfoques.
+👉 **Contenido estructurado disponible – incluye comparación entre enfoques**
 
 ### 🧠 [RAG-LLM](./RAG-LLM)  
 Aplicación local de **Retrieval-Augmented Generation (RAG)** usando herramientas como GPT4All, LangChain y llama-index.  
