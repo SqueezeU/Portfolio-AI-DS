@@ -77,6 +77,9 @@ Desarrollos propios de asistentes conversacionales, basados en modelos de lengua
 - LangChain · GPT4All · Ollama · llama-index  
 - GitHub · Gamma · Anaconda
 
+💡 Nota: Algunas partes de la documentación y estructura del código fueron apoyadas por herramientas de inteligencia artificial para garantizar claridad y formato profesional. 
+La implementación, análisis y lógica fueron realizadas por mí como parte de mi proceso de aprendizaje en análisis de datos e inteligencia artificial.
+
 ---
 
 ## 🤝 Contacto
