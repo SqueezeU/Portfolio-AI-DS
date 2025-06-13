@@ -37,7 +37,7 @@ Visualizaciones interactivas creadas en Power BI, centradas en análisis explora
 
 ### 🧩 [ETL_EDA_KNIME](./ETL_EDA_KNIME)  
 Proceso de extracción, transformación y carga utilizando el entorno visual KNIME.  
-🔗 [Flujo de trabajo (.knwf)](ETL_EDA_KNIME/Project 2 ETL.knwf)
+🔗 [Flujo de trabajo (.knwf)](./ETL_EDA_KNIME/Project 2 ETL.knwf)
 👉 **Incluye flujo completo y documentación de todos los nodos utilizados.**
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
