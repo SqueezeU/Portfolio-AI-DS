@@ -32,7 +32,8 @@ Bienvenido a mi portfolio de proyectos prácticos relacionados con...
 
 ### 📊 [PowerBI](./PowerBI)  
 Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos<br>
-👉 **Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio** <br> 🔗 [Exercise 1 (PBIX)](./PowerBI/Dickl,%20Errol%20-%20Ej1.pbix)
+👉 **Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio** <br> 
+🔗 [Exercise 1 (PBIX)](./PowerBI/Dickl,%20Errol%20-%20Ej1.pbix)
 
 
 ### 🧩 [ETL_EDA_KNIME](./ETL_EDA_KNIME)  
