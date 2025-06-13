@@ -1,3 +1,10 @@
+AI & Data Science Portfolio
+
+🔍 **What I bring to the table**  
+*"I combine hands-on AI projects with 20+ years of business operations experience.  
+My focus: Building practical tools – like RAG document assistants or pricing predictors –  
+that solve real-world problems. Currently expanding my skills in local LLMs."*
+
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
