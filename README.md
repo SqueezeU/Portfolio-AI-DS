@@ -31,8 +31,8 @@ Bienvenido a mi portfolio de proyectos prácticos relacionados con...
 ## 🌸 Contenido del portfolio
 
 ### 📊 [PowerBI](./PowerBI)  
-Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos
-👉 ** Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio **
+Visualizaciones interactivas creadas en Power BI, centradas en análisis exploratorio y presentación clara de datos <br>
+👉 **Incluye cuatro dashboards con datos ficticios y documentación de cada ejercicio** <b>
 🔗 [Exercise 1 (PBIX)](./PowerBI/Dickl,%20Errol%20-%20Ej1.pbix)
 
 
