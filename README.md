@@ -1,5 +1,13 @@
 AI & Data Science Portfolio
 
+¡Hola! Soy Errol Dickl, un profesional en transición hacia el campo del análisis de datos y la inteligencia artificial. 
+Con más de 20 años de experiencia internacional en gestión de proyectos y operaciones, ahora estoy enfocándome en aplicar mis habilidades en Power BI, Python, SQL y machine learning para resolver problemas reales.
+
+Este repositorio muestra mi camino como analista de datos junior, con proyectos que van desde pipelines ETL y visualización de datos hasta ingeniería de prompts y sistemas RAG. 
+Aunque todavía estoy aprendiendo y creciendo, mi objetivo es ofrecer soluciones prácticas utilizando herramientas como KNIME, LangChain, FAISS y modelos basados en GPT.
+
+Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o comentarios.
+
 🔍 **Lo que aporto**  
 *"Combino proyectos prácticos de IA con más de 20 años de experiencia en operaciones empresariales.  
 Mi enfoque: Construir herramientas prácticas – como asistentes de documentos RAG o predictores de precios –  
