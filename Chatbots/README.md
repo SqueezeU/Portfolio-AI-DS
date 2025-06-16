@@ -43,7 +43,7 @@ It uses local documents combined with GPT-4 response generation.
 
 ### 🔐 How to Use the OpenAI API Locally
 
-The file `API_Key_OpenAI.md` explains how to add your OpenAI API key as a local environment variable (Windows), without writing it directly into the code.
+The file [`API_Key_OpenAI.md`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/API_Key_OpenAI.md) explains how to add your OpenAI API key as a local environment variable without writing it in the code.
 
 ⚠️ API keys should never be uploaded to GitHub.
 
