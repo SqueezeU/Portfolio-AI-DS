@@ -1,26 +1,17 @@
 AI & Data Science Portfolio
 
-¡Hola! Soy Errol Dickl, un profesional en transición hacia el campo del análisis de datos y la inteligencia artificial. 
-Con más de 20 años de experiencia internacional en gestión de proyectos y operaciones, ahora estoy enfocándome en aplicar mis habilidades en Power BI, Python, SQL y machine learning para resolver problemas reales.
-
-Este repositorio muestra mi camino como analista de datos junior, con proyectos que van desde pipelines ETL y visualización de datos hasta ingeniería de prompts y sistemas RAG. 
-Aunque todavía estoy aprendiendo y creciendo, mi objetivo es ofrecer soluciones prácticas utilizando herramientas como KNIME, LangChain, FAISS y modelos basados en GPT.
-
-Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o comentarios.
-
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9" alt="errol-github-header" style="width: 750px;">
+      <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9" alt="errol-github-header" style="width: 1500px;">
     </td>
     <td style="vertical-align: top;">
        Welcome to my portfolio of practical projects in Data Science and generative AI.<br>
       <br>
-I'm Errol, a data analyst trained in AI and Data Science at the IMPELIA campus in Barcelona.<br>  
-I work with tools like Power BI, Python, SQL, KNIME, ETL/EDA workflows, ML-based predictions and local RAG systems (LangChain)<br>      
-I use language models (LLMs) such as e.g. GPT, Claude, Perplexity, DeepSeek o Gemini to solve technical tasks in a hands-on way.
-From automating workflows to writing documentation in Markdown and managing GitHub repositories.<br>  
-I focus on clear, efficient and reliable solutions – both, in the cloud and locally.
+I'm Errol Dickl, a professional transitioning into the field of data analysis and artificial intelligence. With over 20 years of international experience in project and operations management, I am now focused on applying my skills in Power BI, Python, SQL, and machine learning to solve real-world problems.<br>
+This repository reflects my journey as a junior data analyst, featuring projects ranging from ETL pipelines and data visualization to prompt engineering and RAG systems. While I'm still learning and growing, my goal is to deliver practical solutions using tools like KNIME, LangChain, FAISS, and GPT-based models.<br>
+My projects include interactive dashboards built with Power BI, as well as machine learning predictions developed using Python and SQL.<br>
+Feel free to explore my projects and reach out if you have any questions or feedback.
     </td>
   </tr>
 </table>
