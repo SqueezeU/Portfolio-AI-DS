@@ -8,8 +8,6 @@ Aunque todavía estoy aprendiendo y creciendo, mi objetivo es ofrecer soluciones
 
 Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o comentarios.
 
-Bienvenido a mi portfolio de proyectos prácticos relacionados con...
-
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
