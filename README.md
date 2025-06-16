@@ -8,11 +8,6 @@ Aunque todavía estoy aprendiendo y creciendo, mi objetivo es ofrecer soluciones
 
 Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o comentarios.
 
-🔍 **Lo que aporto**  
-*"Combino proyectos prácticos de IA con más de 20 años de experiencia en operaciones empresariales.  
-Mi enfoque: Construir herramientas prácticas – como asistentes de documentos RAG o predictores de precios –  
-que resuelvan problemas del mundo real. Actualmente amplío mis habilidades en LLMs locales."*
-
 Bienvenido a mi portfolio de proyectos prácticos relacionados con...
 
 <table>
