@@ -45,7 +45,7 @@ Includes Python script, technical documentation, and JSON with structured result
 
 ### 🤖 [ML_Prediction](./ML%20Prediction)
 Two prediction projects: one using Python (see ETL_Python), and another using AutoML (low-code) tools<br> 
-📄 [AutoML Modell (`.pdf`)](./ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regressor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf)  
+📄 [AutoML Modell (`.pdf`)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))  
 👉 **Structured content available – includes comparison between approaches**
 
 ### 🧠 [RAG-LLM](./RAG-LLM)  
