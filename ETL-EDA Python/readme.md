@@ -1,20 +1,26 @@
-# 🐍 ETL, EDA & ML Predicción con Python – Proyecto 1
+## 🪴 ETL, EDA & ML Prediction with Python – Project 1
 
-Este proyecto forma parte del primer proyecto práctico desarrollado en el marco del programa de especialización en IA y Ciencia de Datos (IMPÈLIA).
+This project was part of the first practical exercise completed during my AI and Data Science specialization at IMPÈLIA.
 
-🔍 **Contenido del notebook:**
-- Carga y análisis exploratorio de datos (EDA)
-- Limpieza y transformación de variables
-- Ingeniería de características básicas
-- Preparación de datos para predicción
-- Aplicación de un modelo de Machine Learning (ML)
+---
 
-📎 Archivo principal:  
-`Análisis exploratorio y modelado predictivo de precios de viviendas en Barcelona.ipynb`
+### 📘 Notebook contents:
 
-⚠️ **Importante:**  
-Este archivo se proporciona únicamente como **referencia del código**.  
-La base de datos original (CSV) no se incluye por razones de privacidad.  
-Por tanto, **el notebook no es directamente ejecutable**, pero refleja fielmente el flujo completo aplicado en el proyecto.
+- Data loading and exploratory data analysis (EDA)  
+- Variable cleaning and transformation  
+- Basic feature engineering  
+- Data preparation for prediction  
+- Application of a Machine Learning (ML) model
 
-🧠 El objetivo es mostrar la **estructura lógica del trabajo en Python**, no la ejecución en tiempo real.
+📄 **Main file:**  
+[`Análisis exploratorio y modelado predictivo de precios de viviendas en Barcelona.ipynb`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)
+
+---
+
+⚠️ **Important:**  
+This file is provided as a **code reference only**.  
+The original dataset (CSV) is not included due to privacy reasons.
+
+Therefore, the notebook is **not directly executable**, but it accurately reflects the full logic applied in the project.
+
+🌸 The goal is to demonstrate the **logical structure of the work in Python**, not its real-time execution.
