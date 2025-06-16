@@ -56,6 +56,10 @@ Local application of Retrieval-Augmented Generation (RAG) using tools like GPT4A
 ### 💬 [Chatbots](./Chatbots)  
 Own development of conversational assistants based on large language models (LLMs).  
 👉 **Includes local examples (llama-index) and cloud-based ones (Gradio with GPT-4)**
+👉 Example notebooks:
+- [Cloud-based chatbot (Gradio + GPT-4)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot%20Cloud%20Gradio%20%2B%20GPT4.ipynb)
+- [RAG-based chatbot using llama-index](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)
+
 
 ---
 
