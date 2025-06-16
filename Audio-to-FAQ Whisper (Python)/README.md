@@ -1,34 +1,34 @@
-# 📁 Transcripción de audio y generación de FAQ con Whisper
+## 🟨 Audio Transcription and FAQ Generation with Whisper
 
-Este proyecto forma parte de un flujo de trabajo para convertir llamadas reales en una base de datos estructurada con preguntas frecuentes (FAQ).  
-Se utiliza el modelo **Whisper** de OpenAI para realizar transcripciones de manera automática y **sin conexión** (instalación local).
-
----
-
-## 🎯 Objetivo
-
-Transformar grabaciones de voz en texto y generar un conjunto estructurado de FAQs anónimas.  
-Este tipo de estructura puede utilizarse como base para asistentes virtuales o bots conversacionales.
+This project is part of a workflow designed to convert real voice calls into a structured database of frequently asked questions (FAQs).  
+It uses the **Whisper** model from OpenAI to perform transcriptions **automatically and offline** (local installation).
 
 ---
 
-## ⚙️ Características del flujo
+### 🎯 Objective
 
-- Transcripción automática de archivos `.mp3` y `.wav` con Whisper local
-- Generación de archivos `.txt` para cada grabación
-- Extracción manual de preguntas y respuestas frecuentes a partir del contenido transcrito
-- Exportación de los resultados en formato `.json` estructurado
-- Documentación técnica detallada incluida en PDF
+Transform voice recordings into text and generate a structured set of anonymous FAQs.  
+This type of structure can serve as a basis for virtual assistants or conversational bots.
 
 ---
 
-## 📄 Archivos del proyecto
+### ⚙️ Workflow Features
 
-- `run_whisper_auto.py` → Script de transcripción automática con Whisper local
-- `calls_full_faq_v2.json` → Preguntas frecuentes generadas a partir de las transcripciones
-- `Add_Documentacion_Whisper_Local.pdf` → Manual técnico con pasos de instalación y uso del script
+- Automatic transcription of `.mp3` and `.wav` files using local Whisper  
+- Generation of `.txt` files for each audio recording  
+- Manual extraction of frequently asked questions and answers from the transcribed content  
+- Export of results in structured `.json` format  
+- Detailed technical documentation included in PDF
 
 ---
 
-📂 Este proyecto es parte del flujo de trabajo general para el desarrollo de un bot conversacional.  
-Las grabaciones originales no están incluidas por motivos de privacidad.
+### 📂 Project Files
+
+- `run_whisper_auto.py` – Script for automatic transcription with local Whisper  
+- `calls_full_faq_v2.json` – Frequently asked questions generated from the transcriptions  
+- `Add_Documentacion_Whisper_Local.pdf` – Technical guide for setup and usage of the script
+
+---
+
+> ⚠️ This project is part of the general workflow for developing a conversational bot.  
+> Original recordings are not included due to privacy concerns.
