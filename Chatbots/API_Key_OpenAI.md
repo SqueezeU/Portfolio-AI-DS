@@ -1,37 +1,35 @@
-# 🔐 Cómo configurar la clave API de OpenAI (local)
+## 🔐 How to Configure the OpenAI API Key (Local)
 
-Para que las aplicaciones locales funcionen con GPT-4 u otros modelos de OpenAI, es necesario configurar correctamente una clave API personal.
-
----
-
-## 🧾 1. ¿Dónde obtener la clave?
-
-Accede a: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)  
-➤ Inicia sesión y haz clic en **“Create new secret key”**  
-➤ Copia la clave (por ejemplo: comienza con `sk-...`)  
-🔐 Guárdala en un lugar seguro – solo se muestra una vez.
+To run local applications with GPT-4 or other OpenAI models, you need to properly configure a personal API key.
 
 ---
 
-## ⚙️ 2. Cómo configurar la clave localmente (Windows)
+### 📄 1. Where to Get the Key?
 
-1. Abre la ventana de **variables de entorno del sistema**  
-   (Panel de control → Sistema → Configuración avanzada → Variables de entorno)
-
-2. En “Variables de usuario”, haz clic en **Nueva…**
-
-3. Introduce:
-
-   - **Nombre de la variable**: `OpenAI_API_Key`  
-   - **Valor**: `sk-...` (tu clave secreta)
-
-4. Haz clic en **Aceptar** para guardar.
+Go to: https://platform.openai.com/account/api-keys  
+► Log in and click on **“Create new secret key”**  
+► Copy the key (it starts with something like `sk-...`)  
+🔐 Save it in a secure location – it will only be shown once.
 
 ---
 
-## ✅ 3. Probar la configuración en JupyterLab
+### ⚙️ 2. How to Set the Key Locally (Windows)
 
-Abre un nuevo Notebook y ejecuta este código:
+1. Open the **System Environment Variables** window  
+   *(Control Panel → System → Advanced settings → Environment Variables)*  
+2. Under **User Variables**, click on **New...**  
+3. Enter:
+
+   - **Variable name:** `OpenAI_API_Key`  
+   - **Value:** `sk-...` (your secret key)
+
+4. Click **OK** to save.
+
+---
+
+### ✅ 3. Test the Configuration in JupyterLab
+
+Open a new notebook and run this code:
 
 ```python
 import os
@@ -39,6 +37,6 @@ import os
 api_key = os.getenv("OpenAI_API_Key")
 
 if api_key and api_key.startswith("sk-"):
-    print("✅ Clave API detectada correctamente.")
+    print("✅ API key detected correctly.")
 else:
-    print("⚠️ No se detectó ninguna clave API.")
+    print("⚠️ No API key detected.")
