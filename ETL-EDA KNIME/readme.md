@@ -1,28 +1,34 @@
-# 🔄 Proyecto 2 – ETL & EDA con KNIME
+## 🧩 Project 2 – ETL & EDA with KNIME
 
-Este flujo de trabajo fue desarrollado como parte del **Proyecto 2 del programa de formación en IA y Ciencia de Datos (IMPÈLIA)**.  
-Se utilizó la herramienta **KNIME** para realizar procesos de limpieza, transformación y análisis exploratorio de datos (ETL & EDA)  
-sobre un conjunto de datos inmobiliarios reales de Barcelona (Fotocasa).
-
-📌 **Objetivo**  
-Preparar un dataset estructurado y limpio, listo para su uso en procesos posteriores de machine learning y visualización (Power BI).
+This workflow was developed as part of **Project 2** during my AI and Data Science training at **IMPÈLIA**.  
+The **KNIME** tool was used to perform data cleaning, transformation, and exploratory analysis (ETL & EDA)  
+on a real estate dataset from Barcelona (Fotocasa).
 
 ---
 
-## 🧠 Características del flujo de trabajo
+### 🎯 Objective
 
-- Eliminación de duplicados, valores inconsistentes y nulos
-- Imputación lógica de valores faltantes con la mediana o categoría "Unknown"
-- Transformación de tipos de datos y redondeo numérico
-- Agrupaciones por vecindario para inferir valores desconocidos
-- Detección y tratamiento de outliers con filtros condicionales
-- Sustitución lógica de valores erróneos mediante reglas (Rule Engine)
-- Revisión estadística antes y después de cada paso
-
-🗂️ Archivo KNIME: `Project_2_ETL.knwf`  
-📄 Documentación detallada: `Documentacion_ETL_EDA.pdf`  
-📁 Carpeta: `/ETL_KNIME/`
+Prepare a clean, structured dataset ready for further machine learning and visualization processes (Power BI).
 
 ---
 
-🔧 Este flujo de trabajo se complementa con la visualización final del proyecto en Power BI, disponible en la carpeta `/PowerBI/ → Final Project`.
+### 🌸 Workflow Features
+
+- Removal of duplicates, inconsistent values, and nulls  
+- Logical imputation of missing values using median or the "Unknown" category  
+- Type conversions and numeric rounding  
+- Neighborhood-based grouping to infer unknown values  
+- Detection and treatment of outliers using conditional filters  
+- Replacement of erroneous values using rules (Rule Engine)  
+- Manual review of outliers before and after each phase
+
+---
+
+📎 **KNIME file:** `Project_2_ETL.knwf`  
+📄 **Detailed documentation:** `Documentacion_ETL_EDA.pdf`  
+📂 **Folder:** `/ETL_KNIME/`
+
+---
+
+> This workflow is complemented by the final project visualization in Power BI,  
+> available in the `/PowerBI/ → Final Project` folder.
