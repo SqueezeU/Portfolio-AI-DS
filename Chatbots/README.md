@@ -1,47 +1,51 @@
-# 🤖 Chatbots
+## 🤖 Chatbots
 
-En esta carpeta se documentan ejemplos de chatbots, flujos conversacionales y pruebas con modelos de lenguaje grandes (LLMs).
-
-# 💬 Chatbots – Aplicaciones conversacionales con IA
-
-Este apartado presenta dos ejemplos de chatbot desarrollados durante mis ejercicios prácticos.  
-Uno utiliza una conexión en la nube (GPT-4 + Gradio), el otro emplea recuperación local de información (RAG) con llama-index.
+This folder contains examples of chatbots, conversational flows, and tests using large language models (LLMs).
 
 ---
 
-## 🤖 Chatbot Cloud con GPT-4 (Gradio)
+### 💬 Chatbots – Conversational AI Applications
 
-Este bot simula un asistente de atención al cliente utilizando **Gradio** como interfaz web y **GPT-4** como motor de respuestas.
-
-🔍 Componentes:
-- Prompts definidos
-- Interfaz de usuario con Gradio
-- Codificación directa en Python
-
-📎 Notebook: `Bot Cloud Gradio + GPT4.ipynb`
+This section presents two chatbot examples developed during my practical exercises.  
+One uses a cloud connection (GPT-4 + Gradio), the other applies local information retrieval (RAG) with llama-index.
 
 ---
 
-## 🧠 Chatbot con recuperación local (RAG)
+### 🤖 Chatbot Cloud with GPT-4 (Gradio)
 
-Una segunda versión implementa un enfoque de **Retrieval-Augmented Generation (RAG)**.  
-Utiliza documentos locales combinados con generación de respuestas mediante GPT-4.
+This bot simulates a customer service assistant using **Gradio** as the web interface and **GPT-4** as the response engine.
 
-🔧 Herramientas utilizadas:
-- `llama-index` para indexación de documentos locales (`.txt`, `.csv`, `.pdf`)
-- `OpenAI` como motor generativo
-- `Gradio` como interfaz conversacional
+🔍 **Components:**
 
-📎 Notebook: `RAG_llama_index_Errol.ipynb`  
-📄 Explicación complementaria: `Bot_Cliente_Codigo_y_Explicacion_ES.docx`
+- Defined prompts  
+- Gradio user interface  
+- Direct implementation in Python
+
+📘 **Notebook:** [`Bot_Cloud_Gradio_+_GPT4.ipynb`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot%20Cloud%20Gradio%20%2B%20GPT4.ipynb)
 
 ---
 
-🔐 **Cómo usar la API de OpenAI localmente**
+### 🧠 Chatbot with Local Retrieval (RAG)
 
-El archivo [API_Key_OpenAI.md](API_Key_OpenAI.md) explica cómo añadir tu clave de API de OpenAI como variable de entorno local (Windows), sin escribirla en el código.
+A second version implements a **Retrieval-Augmented Generation (RAG)** approach.  
+It uses local documents combined with GPT-4 response generation.
 
-⚠️ Las claves API nunca deben subirse a GitHub.
+🛠️ **Tools used:**
+
+- `llama-index` for indexing local documents (`.txt`, `.csv`, `.pdf`)  
+- `OpenAI` as response engine  
+- `Gradio` as conversational interface
+
+📘 **Notebook:** [`RAG_llama_index_Errol_BEREINIGT.ipynb`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)  
+📄 **Additional explanation:** [`Bot_Cliente_Codigo_y_Explicacion_ES.docx`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot_Cliente_Codigo_y_Explicacion_Es.docx)
+
+---
+
+### 🔐 How to Use the OpenAI API Locally
+
+The file `API_Key_OpenAI.md` explains how to add your OpenAI API key as a local environment variable (Windows), without writing it directly into the code.
+
+⚠️ API keys should never be uploaded to GitHub.
 
 
 ...
