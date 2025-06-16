@@ -30,7 +30,7 @@ ETL process using the KNIME visual environment for data extraction, transformati
 👉 Includes the complete flow and documentation of all used nodes.
 
 📄 [`Workflow (Project_2_ETL.knwf)`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Project%202%20ETL.knwf)  
-📝 [`Documentation_ETL_EDA.pdf`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
+📝 [`Spanish Documentation_ETL_EDA.pdf`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
 
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
