@@ -16,7 +16,7 @@ Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o co
     <td style="vertical-align: top;">
       Bienvenido a mi portfolio de proyectos prácticos relacionados con la ciencia de datos y la inteligencia artificial generativa.<br>
       <br>
-      Soy Errol Dickl, analista de datos formado en el ámbito de IA y Data Science en el campus IMPELIA (Barcelona), con experiencia práctica en herramientas como Power BI, Python, Prompt Engineering, RAG local y flujos ETL/EDA. También utilizo modelos de lenguaje (LLMs) como GPT, Claude o Perplexity para resolver problemas técnicos de forma práctica – por ejemplo, en Markdown, estructuras de GitHub y flujos de trabajo automatizados. Mi objetivo es aplicar soluciones eficientes, seguras y comprensibles con herramientas actuales – tanto en la nube como en entornos locales.
+     I’m Errol, a data analyst trained in AI and Data Science at the IMPELIA campus in Barcelona. I work with tools like Power BI, Python, ETL/EDA workflows, local RAG systems, and prompt engineering. I use language models (LLMs) such as GPT, Claude, or Perplexity to solve technical tasks in a hands-on way – from automating workflows to writing documentation in Markdown and managing GitHub repositories. My focus is on delivering clear, efficient, and reliable solutions across both cloud-based and local environments.
     </td>
   </tr>
 </table>
