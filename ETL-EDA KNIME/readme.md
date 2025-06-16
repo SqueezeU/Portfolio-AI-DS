@@ -30,5 +30,5 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ---
 
-> This workflow is complemented by the final project visualization in Power BI,  
-> available in the [Final Project Power BI.pbix](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/PowerBI/Final%20Project%20Power%20BI.pbix)
+This workflow is complemented by the final Power BI dashboard,  
+> available in the [`PowerBI`](https://github.com/SqueezeU/Portfolio-AI-DS/tree/main/PowerBI) folder.
