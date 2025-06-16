@@ -11,12 +11,16 @@ Siéntete libre de explorar mis proyectos y contactarme si tienes preguntas o co
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9" alt="errol-github-header" style="width: 2000px;">
+      <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9" alt="errol-github-header" style="width: 750px;">
     </td>
     <td style="vertical-align: top;">
-      Bienvenido a mi portfolio de proyectos prácticos relacionados con la ciencia de datos y la inteligencia artificial generativa.<br>
+       Welcome to my portfolio of practical projects in Data Science and generative AI.<br>
       <br>
-     I’m Errol, a data analyst trained in AI and Data Science at the IMPELIA campus in Barcelona. I work with tools like Power BI, Python, ETL/EDA workflows, local RAG systems, and prompt engineering. I use language models (LLMs) such as GPT, Claude, or Perplexity to solve technical tasks in a hands-on way – from automating workflows to writing documentation in Markdown and managing GitHub repositories. My focus is on delivering clear, efficient, and reliable solutions across both cloud-based and local environments.
+I'm Errol, a data analyst trained in AI and Data Science at the IMPELIA campus in Barcelona.<br>  
+I work with tools like Power BI, Python, SQL, KNIME, ETL/EDA workflows, ML-based predictions and local RAG systems (LangChain)<br>      
+I use language models (LLMs) such as e.g. GPT, Claude, Perplexity, DeepSeek o Gemini to solve technical tasks in a hands-on way.
+From automating workflows to writing documentation in Markdown and managing GitHub repositories.<br>  
+I focus on clear, efficient and reliable solutions – both, in the cloud and locally.
     </td>
   </tr>
 </table>
