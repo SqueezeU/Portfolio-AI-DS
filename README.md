@@ -24,10 +24,13 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 🔗 [Example - Exercise 1 (PBIX)](./PowerBI/Dickl,%20Errol%20-%20Ej1.pbix)
 
 
-### 🧩 [ETL_EDA_KNIME](./ETL_EDA_KNIME)  
-ETL process using the KNIME visual environment for data extraction, transformation, and loading<br>
-👉 **Includes the complete flow and documentation of all used nodes**<br> 
-🔗 [Workflow (.knwf)](./ETL_EDA_KNIME/Project%202%20ETL.knwf)
+### 🧬 [ETL_EDA_KNIME](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/readme.md)
+
+ETL process using the KNIME visual environment for data extraction, transformation, and loading.  
+👉 Includes the complete flow and documentation of all used nodes.
+
+📄 [`Workflow (Project_2_ETL.knwf)`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Project%202%20ETL.knwf)  
+📝 [`Documentation_ETL_EDA.pdf`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
 
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
