@@ -46,13 +46,15 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 ### Overview
 ![Power BI Overview](Images/Power%20BI%201.png)
 
-### 🧬 [ETL_EDA_KNIME](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/readme.md)
+## 🚀 ETL_EDA_KNIME
 
-ETL process using the KNIME visual environment for data extraction, transformation, and loading.  
-👉 Includes the complete flow and documentation of all used nodes.
+ETL workflow using KNIME for data cleaning, transformation, and exploratory analysis on Barcelona real estate data.
 
-📄 [`Workflow (Project_2_ETL.knwf)`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Project%202%20ETL.knwf)  
-📝 [`Spanish Documentation_ETL_EDA.pdf`](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
+**Features:** Data cleaning, outlier detection, imputation strategies, preparation for ML and Power BI visualization
+
+**Technologies:** KNIME Analytics Platform, Rule Engine, data transformation nodes
+
+📄 [View detailed documentation](ETL-EDA%20KNIME/)
 
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
