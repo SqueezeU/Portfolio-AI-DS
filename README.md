@@ -42,7 +42,7 @@ ETL process using the KNIME visual environment for data extraction, transformati
 
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
 ETL workflows and exploratory data analysis in Python<br> 
-📄 [Notebook (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)  
+📓 [Notebook: Housing Price Analysis Barcelona (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)  
 👉 Complete EDA and predictive modeling workflow
 
 ### 🧠 [Audio-to-FAQ Whisper (Python)](./Audio-to-FAQ%20Whisper%20(Python))
