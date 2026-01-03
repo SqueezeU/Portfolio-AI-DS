@@ -10,7 +10,7 @@ AI & Data Science Portfolio
       <br>
 I'm Errol Dickl, a Data Analyst and ML Engineer with 20+ years of 
 international project experience, specialized in AI solutions and 
-data-driven insights.
+data-driven insights.<br>
 
 I deliver practical solutions using Power BI, Python, SQL, and modern 
 AI technologies including RAG systems and LLMs. This repository showcases 
