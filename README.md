@@ -6,7 +6,7 @@ AI & Data Science Portfolio
       <img src="https://github.com/user-attachments/assets/5c27bea4-f882-46ea-9ab8-13f75f2de9a9" alt="errol-github-header" style="width: 1500px;">
     </td>
     <td style="vertical-align: top;">
-       Welcome to my portfolio of practical projects in Data Science and generative AI.<br>
+       Welcome to my portfolio of projects in Data Science and generative AI.<br>
       <br>
 I'm Errol Dickl, a Data Analyst and ML Engineer with 20+ years of 
 international project experience, now specialized in AI solutions and 
