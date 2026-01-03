@@ -46,7 +46,7 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 ### Overview
 ![Power BI Overview](Images/Power%20BI%201.png)
 
-## 🚀 ETL_EDA_KNIME
+## 🚀 [ETL_EDA_KNIME](./ETL-EDA%20KNIME)
 
 ETL workflow using KNIME for data cleaning, transformation, and exploratory analysis on Barcelona real estate data.
 
