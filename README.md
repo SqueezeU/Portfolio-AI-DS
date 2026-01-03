@@ -30,16 +30,16 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 👉 **Sample business intelligence dashboard for sales and vendor analysis** <br> 
 
 ### Overview
-![Power BI Overview](Images/Power BI 1.png)
+![Power BI Overview](Images/Power%20BI%201.png)
 
 ### Detailed View
-![Power BI Details](Images/Power BI 2.png)
+![Power BI Details](Images/Power%20BI%202.png)
 
 ### Drill Through
-![Power BI Drillthrough](Images/Power BI 3 Drill through.png)
+![Power BI Drillthrough](Images/Power%20BI%203%20Drill%20through.png)
 
 ### Tooltip Example
-![Power BI Tooltip](Images/Power BI 3 with ToolTip.png)
+![Power BI Tooltip](Images/Power%20BI%203%20with%20ToolTip.png)
 
 
 ### 🧬 [ETL_EDA_KNIME](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/readme.md)
