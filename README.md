@@ -46,6 +46,8 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 ### Overview
 ![Power BI Overview](Images/Power%20BI%201.png)
 
+---
+
 ### 🚀 [ETL_EDA_KNIME](./ETL-EDA%20KNIME)
 
 ETL workflow using KNIME for data cleaning, transformation, and exploratory analysis on Barcelona real estate data.
@@ -56,10 +58,14 @@ ETL workflow using KNIME for data cleaning, transformation, and exploratory anal
 
 📄 [View detailed documentation](ETL-EDA%20KNIME/)
 
+---
+
 ### 🐍 [ETL_Python](./ETL-EDA%20Python)
 ETL workflows and exploratory data analysis in Python<br> 
 📓 [Notebook: Housing Price Analysis Barcelona (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)  
 👉 Complete EDA and predictive modeling workflow
+
+---
 
 ### 🧠 [Audio-to-FAQ Whisper (Python)](./Audio-to-FAQ%20Whisper%20(Python))
 Automated text extraction from audio files using Whisper, with manual generation of a structured FAQ catalog  
@@ -69,15 +75,21 @@ Includes Python script, technical documentation, and JSON with structured result
 📄 [Archive JSON (`.json`)](./Audio-to-FAQ%20Whisper%20(Python)/calls_full_faq_v2.json)  
 📄 [Documentation (`.pdf`)](./Audio-to-FAQ%20Whisper%20(Python)/Add_Documentacion_Whisper_Local.pdf)
 
+---
+
 ### 🤖 [ML_Prediction](./ML%20Prediction)
 Two prediction projects: one using Python (see ETL_Python), and another using AutoML (low-code) tools<br> 
 📄 [AutoML Modell (`.pdf`)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))  
 👉 **Structured content available – includes comparison between approaches**
 
+---
+
 ### 🧠 [RAG-LLM](./RAG-LLM)  
 Local application of Retrieval-Augmented Generation (RAG) using tools like GPT4All, LangChain, and llama-index  
 📎 [Visual Presentation (PPSX)](./RAG-LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)  
 👉 **Visual summary of my journey through generative AI**
+
+---
 
 ### 💬 [Chatbots](./Chatbots)  
 Own development of conversational assistants based on large language models (LLMs).  
@@ -85,7 +97,6 @@ Own development of conversational assistants based on large language models (LLM
 👉 Example notebooks:
 - [Cloud-based chatbot (Gradio + GPT-4)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot%20Cloud%20Gradio%20%2B%20GPT4.ipynb)
 - [RAG-based chatbot using llama-index](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)
-
 
 ---
 
@@ -97,7 +108,6 @@ Own development of conversational assistants based on large language models (LLM
 
 💡 Note: Some parts of the documentation and code structure were supported by AI tools to ensure clarity and a professional format.<br>
 The implementation, analysis, and logic were carried out by me as part of my learning journey in data analysis and artificial intelligence.
-
 
 ---
 
