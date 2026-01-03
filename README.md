@@ -28,7 +28,18 @@ interactive dashboards, predictive models, and AI-powered applications.
 ### 📊 [PowerBI](./PowerBI)  
 Interactive visualizations created in Power BI, focused on exploratory analysis and clear data presentation<br>
 👉 **Sample business intelligence dashboard for sales and vendor analysis** <br> 
-🔗 [Power BI 1.png (./C:\Users\Errol\OneDrive\Freelancer\_DND Labs UG)
+
+### Overview
+![Power BI Overview](Images/Power BI 1.png)
+
+### Detailed View
+![Power BI Details](Images/Power BI 2.png)
+
+### Drill Through
+![Power BI Drillthrough](Images/Power BI 3 Drill through.png)
+
+### Tooltip Example
+![Power BI Tooltip](Images/Power BI 3 with ToolTip.png)
 
 
 ### 🧬 [ETL_EDA_KNIME](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/readme.md)
