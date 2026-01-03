@@ -115,6 +115,6 @@ The implementation, analysis, and logic were carried out by me as part of my lea
 
 **Errol Dickl**  
 🌍 Remote (Worldwide)<br>
-💡 I speak German, English and Spanish
+💡 I speak German, English and Spanish<br>
 ✉️ errol@dndlabs.tech  
 🔗 [LinkedIn](https://www.linkedin.com/in/errol-d-723667a5/)
