@@ -23,12 +23,6 @@ interactive dashboards, predictive models, and AI-powered applications.
   </tr>
 </table>
 
-## Testbild
-
-![Power BI Test](Images/Power BI 1.png)
-
-
-
 ## 🌸 Portfolio Contents
 
 ### 📊 [PowerBI](./PowerBI)  
