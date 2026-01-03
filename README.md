@@ -29,8 +29,6 @@ interactive dashboards, predictive models, and AI-powered applications.
 Interactive visualizations created in Power BI, focused on exploratory analysis and clear data presentation<br>
 👉 **Sample business intelligence dashboard for sales and vendor analysis** <br> 
 
-### Overview
-![Power BI Overview](Images/Power%20BI%201.png)
 ### Detailed View
 ![Power BI Details](Images/Power%20BI%202.png)
 ### Drill Through
