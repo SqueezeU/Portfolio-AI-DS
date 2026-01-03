@@ -31,6 +31,13 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 
 ### Overview
 ![Power BI Overview](Images/Power%20BI%201.png)
+### Detailed View
+![Power BI Details](Images/Power%20BI%202.png)
+### Drill Through
+![Power BI Drillthrough](Images/Power%20BI%203%20Drill%20through.png)
+### Tooltip Example
+![Power BI Tooltip](Images/Power%20BI%203%20with%20ToolTip.png)
+
 
 ### 🧬 [ETL_EDA_KNIME](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ETL-EDA%20KNIME/readme.md)
 
