@@ -22,7 +22,7 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ### 🔧 Detailed Documentation
 
-[Detailed Documentation](../ETL-EDA KNIME/Dokumentation ETL_EDA.pdf)
+[Detailed Documentation](../ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
 
 ---
 
