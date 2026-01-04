@@ -20,7 +20,7 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ---
 
-### 🔧 Nodes Documentation
+### 🔧 Nodes Documentation (11 pages pdf)
 
 [Detailed Documentation](../ETL-EDA%20KNIME/Dokumentation%20ETL_EDA.pdf)
 
