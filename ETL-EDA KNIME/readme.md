@@ -14,7 +14,7 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ### 🔧 Workflow Overview
 
-![KNIME Workflow](images/KNIME%20Workflow.png)
+![KNIME Workflow](,,/images/KNIME%20Workflow.png)
 
 *Visual representation of the complete data processing pipeline*
 
