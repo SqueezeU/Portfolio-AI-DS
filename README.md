@@ -82,14 +82,14 @@ Automated transcription and intelligent FAQ generation using local AI.
 
 **Key Highlights:**<br>
 
-👉 Privacy-First AI: Uses OpenAI's Whisper model locally for secure, offline transcription of .mp3 and .wav files
-👉 From Audio to Insight: Streamlined workflow that converts raw voice recordings into structured text and actionable FAQ catalogs
-👉 Scalable Output: Automatically generates .txt files for recordings and exports results in structured .json format for easy integration into virtual assistants or bots.
+👉 Privacy-First AI: Uses OpenAI's Whisper model locally for secure, offline transcription of .mp3 and .wav files<br>
+👉 From Audio to Insight: Streamlined workflow that converts raw voice recordings into structured text and actionable FAQ catalogs<br>
+👉 Scalable Output: Automatically generates .txt files for recordings and exports results in structured .json format for easy integration into virtual assistants or bots<br>
 
 **Technical Excellence:**<br>
-👉 Includes full documentation for local setup, technical scripts, and manual curation strategies for high-quality data.
+👉 Includes full documentation for local setup, technical scripts, and manual curation strategies for high-quality data
 
-Technologies: Python, OpenAI Whisper (Local), JSON, Audio Processing.
+Technologies: Python, OpenAI Whisper (Local), JSON, Audio Processing
 
 👉 **Content available – documentation included**  
 📄 [Script Python (`.py`)](./Audio-to-FAQ%20Whisper%20(Python)/run_whisper_auto.py)  
