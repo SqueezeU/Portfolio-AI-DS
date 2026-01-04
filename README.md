@@ -107,7 +107,8 @@ A full end-to-end data science pipeline, from exploratory analysis (EDA) to a tr
 **Project 2 – Enterprise Collaboration:** <br>
 A professional team-based workflow using IBM WatsonX to develop high-performance rental price models <br>
 
-Methodological Comparison: Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need.
+**Methodological Comparison:** <br>
+Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need <br>
 
 My Contributions:
 
