@@ -147,8 +147,11 @@ This example focuses on user interaction, prompt design, and deploying a convers
 👉 See this notebook for the full implementation
 - [Cloud-based chatbot (Gradio + GPT-4)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot%20Cloud%20Gradio%20%2B%20GPT4.ipynb)
 
-👉 Example notebooks:
+**🧠 Local RAG Chatbot**
+A second prototype that can answer questions based on local documents.
+This version demonstrates how a chatbot can integrate private or domain‑specific knowledge.
 
+👉 Details and code are available in the internal README and notebooks.
 - [RAG-based chatbot using llama-index](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)
 
 ---
