@@ -26,6 +26,7 @@ This type of structure can serve as a basis for virtual assistants or conversati
 
 📄 [Script Python (`.py`)](./Audio-to-FAQ%20Whisper%20(Python)/run_whisper_auto.py) – Script for automatic transcription with local Whisper  
 📄 [Archive JSON (`.json`)](./Audio-to-FAQ%20Whisper%20(Python)/calls_full_faq_v2.json) - `calls_full_faq_v2.json` – Frequently asked questions generated from the transcriptions <br>
+📄 [Archive JSON (.json)](calls_full_faq_v2.json)
 📄 [Documentation (`.pdf`)](./Audio-to-FAQ%20Whisper%20(Python)/Add_Documentacion_Whisper_Local.pdf) - `Add_Documentacion_Whisper_Local.pdf` – Technical guide for setup and usage of the script
 
 ---
