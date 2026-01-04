@@ -102,8 +102,10 @@ Automated transcription and intelligent FAQ generation using local AI.
 A dual-perspective project comparing custom coding with collaborative enterprise AI solution<br>
 
 **Key Highlights:**<br>
-**Project 1 – Custom Python Modeling:** A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model
-**Project 2 – Enterprise Collaboration:** A professional team-based workflow using IBM WatsonX to develop high-performance rental price models
+**Project 1 – Custom Python Modeling:**<br>
+A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model
+**Project 2 – Enterprise Collaboration:** <br>
+A professional team-based workflow using IBM WatsonX to develop high-performance rental price models
 
 Methodological Comparison: Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need.
 
