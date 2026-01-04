@@ -72,7 +72,7 @@ ETL workflows and exploratory data analysis in Python - Comprehensive EDA and ho
 
 📓 [Notebook: Housing Price Analysis Barcelona (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)
 
-Features II:
+Features II:<br>
 👉 Universal Code Logic: Although documented in Spanish, the technical workflow follows global best practices and clean coding standards<br>
 
 ---
