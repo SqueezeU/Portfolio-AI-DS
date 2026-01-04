@@ -20,6 +20,12 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ---
 
+### 🔧 Detailed Dokumentation
+
+![Detailed Documentation](../ETL-EDA KNIME/KNIME%20Workflow.png)
+
+---
+
 ### 🌸 Workflow Features
 
 - Removal of duplicates, inconsistent values, and nulls  
@@ -31,12 +37,3 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 - Manual review of outliers before and after each phase
 
 ---
-
-📎 **KNIME file:** `Project_2_ETL.knwf`  
-📄 **Detailed documentation:** `Documentacion_ETL_EDA.pdf`  
-📂 **Folder:** `/ETL_KNIME/`
-
----
-
-This workflow is complemented by the final Power BI dashboard,  
-> available in the [`PowerBI`](https://github.com/SqueezeU/Portfolio-AI-DS/tree/main/PowerBI) folder.
