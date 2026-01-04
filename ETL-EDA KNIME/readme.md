@@ -20,9 +20,9 @@ Prepare a clean, structured dataset ready for further machine learning and visua
 
 ---
 
-### 🔧 Detailed Dokumentation
+### 🔧 Detailed Documentation
 
-![Detailed Documentation](../ETL-EDA KNIME/KNIME%20Workflow.png)
+![Detailed Documentation](../ETL-EDA KNIME/Dokumentation ETL_EDA.pdf)
 
 ---
 
