@@ -25,7 +25,7 @@ interactive dashboards, predictive models, and AI-powered applications.
 
 # 🌸 Portfolio Contents
 
-### 📊 [PowerBI](./PowerBI)  
+### 📊 PowerBI  
 Interactive visualizations created in Power BI, focused on exploratory analysis and clear data presentation<br>
 👉 **Sample business intelligence dashboards for sales and vendor analysis** <br>
 
