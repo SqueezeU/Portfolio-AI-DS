@@ -104,23 +104,23 @@ A dual-perspective project comparing custom coding with collaborative enterprise
 **Key Highlights:**<br>
 
 **Project 1 – Custom Python Modeling:**<br>
-A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model <br>
+A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model<br>
 **Project 2 – Enterprise Collaboration:** <br>
-A professional team-based workflow using IBM WatsonX to develop high-performance rental price models <br>
+A professional team-based workflow using IBM WatsonX to develop high-performance rental price models<br>
 **Methodological Comparison:** <br>
-Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need <br>
+Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need<br>
 
-**My Contributions:** <br>
+**My Contributions:**<br>
 
 **Advanced ETL:** Deep cleaning and transformation of complex real estate datasets<br>
 **Insightful Visualization:** Building Power BI dashboards to identify key drivers for the prediction models<br>
 **Data Flow Coordination:** Ensuring seamless integration between raw data and the modeling environment<br>
 
-**Deliverables:** <br>
+**Deliverables:**<br>
 
 📓 Python Notebook: Custom Modeling (.ipynb)
-📄 Technical Report: WatsonX AutoML (.pdf)
-📄 [Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))  
+📄 Technical Report: WatsonX AutoML (.pdf)<br>
+📄 [Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))<br>  
 
 ---
 
