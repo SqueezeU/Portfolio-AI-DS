@@ -118,9 +118,8 @@ Demonstrates the ability to switch between manual coding (Python) and low-code/A
 
 **Deliverables:**<br>
 
-📓 Python Notebook: Custom Modeling (.ipynb)
-📄 Technical Report: WatsonX AutoML (.pdf)<br>
-📄 [Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))<br>  
+📓 Python Notebook: Custom Modeling (.ipynb)<br>
+📄[Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))<br>  
 
 ---
 
