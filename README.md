@@ -72,14 +72,25 @@ ETL workflows and exploratory data analysis in Python - Comprehensive EDA and ho
 
 📓 [Notebook: Housing Price Analysis Barcelona (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)
 
-Features II:<br>
+**Features II:**<br>
 👉 Universal Code Logic: Although documented in Spanish, the technical workflow follows global best practices and clean coding standards<br>
 
 ---
 
-### 🧠 [Audio-to-FAQ Whisper (Python)](./Audio-to-FAQ%20Whisper%20(Python))
-Automated text extraction from audio files using Whisper, with manual generation of a structured FAQ catalog  
-Includes Python script, technical documentation, and JSON with structured results.  
+### 🧠 [Audio-to-FAQ Whisper (Python & AI)](./Audio-to-FAQ%20Whisper%20(Python))
+Automated transcription and intelligent FAQ generation using local AI.
+
+**Key Highlights:**<br>
+
+👉 Privacy-First AI: Uses OpenAI's Whisper model locally for secure, offline transcription of .mp3 and .wav files
+👉 From Audio to Insight: Streamlined workflow that converts raw voice recordings into structured text and actionable FAQ catalogs
+👉 Scalable Output: Automatically generates .txt files for recordings and exports results in structured .json format for easy integration into virtual assistants or bots.
+
+**Technical Excellence:**<br>
+👉 Includes full documentation for local setup, technical scripts, and manual curation strategies for high-quality data.
+
+Technologies: Python, OpenAI Whisper (Local), JSON, Audio Processing.
+
 👉 **Content available – documentation included**  
 📄 [Script Python (`.py`)](./Audio-to-FAQ%20Whisper%20(Python)/run_whisper_auto.py)  
 📄 [Archive JSON (`.json`)](./Audio-to-FAQ%20Whisper%20(Python)/calls_full_faq_v2.json)  
