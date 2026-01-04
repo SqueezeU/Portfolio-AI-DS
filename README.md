@@ -136,11 +136,19 @@ GPT4All and Ollama for running LLMs locally
 
 ---
 
-### 💬 [Chatbots](./Chatbots)  
-Own development of conversational assistants based on large language models (LLMs).  
-👉 **Includes local examples (llama-index) and cloud-based ones (Gradio with GPT-4)**
-👉 Example notebooks:
+### 🤖 [Chatbots – Overview](./Chatbots)  
+This folder contains two chatbot prototypes developed during my practical work with Large Language Models (LLMs).
+Both examples explore different approaches to building conversational AI — one using cloud‑based models, the other integrating local document retrieval.
+
+**🌐 Cloud Chatbot**
+A simple customer‑support style assistant built with a web interface.
+This example focuses on user interaction, prompt design, and deploying a conversational flow.
+
+👉 See this notebook for the full implementation
 - [Cloud-based chatbot (Gradio + GPT-4)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/Bot%20Cloud%20Gradio%20%2B%20GPT4.ipynb)
+
+👉 Example notebooks:
+
 - [RAG-based chatbot using llama-index](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)
 
 ---
