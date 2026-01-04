@@ -60,7 +60,7 @@ ETL workflow using KNIME for data cleaning, transformation, and exploratory anal
 
 ---
 
-### 🐍 [ETL_Python](./ETL-EDA%20Python)
+### 🐍 [ETL & Predictive Modeling (Python)](./ETL-EDA%20Python)
 
 ETL workflows and exploratory data analysis in Python<br>
 
