@@ -56,8 +56,6 @@ ETL workflow using KNIME for data cleaning, transformation, and exploratory anal
 
 **Technologies:** KNIME Analytics Platform, Rule Engine, data transformation nodes
 
-📄 [View detailed documentation](ETL-EDA%20KNIME/)
-
 ---
 
 ### 🐍 [ETL & Predictive Modeling (Python)](./ETL-EDA%20Python)
@@ -103,20 +101,20 @@ A dual-perspective project comparing custom coding with collaborative enterprise
 
 **Key Highlights:**<br>
 
-**Project 1 – Custom Python Modeling:**<br>
+👉**Project 1 – Custom Python Modeling:**<br>
 A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model (further up ETL & Predictive Modeling)<br>
-**Project 2 – Enterprise Collaboration:** <br>
+👉**Project 2 – Enterprise Collaboration:** <br>
 A professional team-based workflow using IBM WatsonX to develop high-performance rental price models<br>
-**Methodological Comparison:** <br>
+👉**Methodological Comparison:** <br>
 Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need<br>
 
-**My Contributions:**<br>
+👉**My Contributions:**<br>
 
 **Advanced ETL:** Deep cleaning and transformation of complex real estate datasets<br>
 **Insightful Visualization:** Building Power BI dashboards to identify key drivers for the prediction models<br>
 **Data Flow Coordination:** Ensuring seamless integration between raw data and the modeling environment<br>
 
-**Deliverables:**<br>
+👉**Deliverables:**<br>
 
 📓[Python Notebook: Custom Modelling (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)<br>
 📄[Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))<br>  
