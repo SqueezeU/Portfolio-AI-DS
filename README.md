@@ -154,7 +154,7 @@ This version demonstrates how a chatbot can integrate private or domain‑specif
 👉 Details and code are available in the internal README and notebooks.
 - [RAG-based chatbot using llama-index](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/Chatbots/RAG_llama_index_Errol_BEREINIGT.ipynb)
 
-**Live-Demo folgt - Derzeit in Überarbeitung**
+**Live-Demo folgt - derzeit in Überarbeitung**
 
 ---
 
