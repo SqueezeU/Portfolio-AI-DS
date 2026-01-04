@@ -104,7 +104,7 @@ A dual-perspective project comparing custom coding with collaborative enterprise
 **Key Highlights:**<br>
 
 **Project 1 – Custom Python Modeling:**<br>
-A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model<br>
+A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model (see further up ETL & Predictive Modeling (Python))<br>
 **Project 2 – Enterprise Collaboration:** <br>
 A professional team-based workflow using IBM WatsonX to develop high-performance rental price models<br>
 **Methodological Comparison:** <br>
