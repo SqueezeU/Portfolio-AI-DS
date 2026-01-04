@@ -123,10 +123,18 @@ Demonstrates the ability to switch between manual coding (Python) and low-code/A
 
 ---
 
-### 🧠 [RAG-LLM](./RAG-LLM)  
-Local application of Retrieval-Augmented Generation (RAG) using tools like GPT4All, LangChain, and llama-index  
-📎 [Visual Presentation (PPSX)](./RAG-LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)  
-👉 **Visual summary of my journey through generative AI**
+### 🧠 [RAG‑LLM: Local Retrieval‑Augmented Generation with Open‑Source Tools](./RAG-LLM)<br>  
+This project demonstrates how to implement Retrieval‑Augmented Generation (RAG) entirely on a local machine, without relying on cloud services. Using tools such as GPT4All, LangChain, llama‑index, and Ollama, I built several workflows that enable Large Language Models to integrate external knowledge from documents like PDFs, TXTs, and CSVs<br>  
+📎 [Visual Presentation (PPSX)](./RAG-LLM/Mi-Travesia-por-el-Laberinto-de-la-IA-Generativa_PPP%20hecho%20con%20Gamma.ppsx)<br>
+
+**🔍 Project Objectives**<br>
+Build a fully local RAG pipeline using vector databases and embedding models<br>
+Apply Multi‑Chain Prompting (MCP) for structured, step‑by‑step interaction with LLMs<br>
+Compare local vs. cloud‑based models in terms of privacy, performance, and cost<br>
+Explore practical prompt engineering techniques for more reliable outputs<br>
+
+**🛠️ Technologies Used**
+GPT4All and Ollama for running LLMs locally
 
 ---
 
