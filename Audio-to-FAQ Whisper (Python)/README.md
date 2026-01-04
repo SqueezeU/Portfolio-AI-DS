@@ -31,4 +31,4 @@ This type of structure can serve as a basis for virtual assistants or conversati
 ---
 
 > ⚠️ This project is part of the general workflow for developing a conversational bot.  
-> Original recordings are not included due to privacy concerns.
+> ⚠️ Original recordings are not included due to privacy concerns.
