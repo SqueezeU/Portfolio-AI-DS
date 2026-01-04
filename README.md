@@ -66,7 +66,8 @@ ETL workflows and exploratory data analysis in Python<br>
 
 📓 [Notebook: Housing Price Analysis Barcelona (`.ipynb`)](./ETL-EDA%20Python/An%C3%A1lisis%20exploratorio%20y%20modelado%20predictivo%20de%20precios%20de%20viviendas%20en%20Barcelona.ipynb)
 
-👉 Complete EDA and predictive modeling workflow - project was in Spanish so the code explanation had to be but language shouldn´t be a problem as it is just an insight how I work
+👉 Complete EDA and predictive modeling workflow - project was in Spanish so the code explanation had to be<br>
+but language shouldn´t be a problem as it is just shows you how I work
 
 ---
 
