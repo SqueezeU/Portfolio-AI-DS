@@ -62,8 +62,7 @@ ETL workflow using KNIME for data cleaning, transformation, and exploratory anal
 
 ### 🐍 [ETL & Predictive Modeling (Python)](./ETL-EDA%20Python)
 
-ETL workflows and exploratory data analysis in Python<br>
-Comprehensive EDA and house price prediction workflow
+ETL workflows and exploratory data analysis in Python - Comprehensive EDA and house price prediction workflow
 
 **Features:** 
 Advanced Feature Engineering: Transforming raw data into high-quality predictors for machine learning.
