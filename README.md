@@ -89,7 +89,7 @@ Automated transcription and intelligent FAQ generation using local AI.
 **Technical Excellence:**<br>
 👉 Includes full documentation for local setup, technical scripts, and manual curation strategies for high-quality data
 
-Technologies: Python, OpenAI Whisper (Local), JSON, Audio Processing
+**Technologies:** Python, OpenAI Whisper (Local), JSON, Audio Processing
 
 👉 **Content available – documentation included**  
 📄 [Script Python (`.py`)](./Audio-to-FAQ%20Whisper%20(Python)/run_whisper_auto.py)  
