@@ -102,21 +102,19 @@ Automated transcription and intelligent FAQ generation using local AI.
 A dual-perspective project comparing custom coding with collaborative enterprise AI solution<br>
 
 **Key Highlights:**<br>
+
 **Project 1 – Custom Python Modeling:**<br>
 A full end-to-end data science pipeline, from exploratory analysis (EDA) to a trained predictive model <br>
 **Project 2 – Enterprise Collaboration:** <br>
 A professional team-based workflow using IBM WatsonX to develop high-performance rental price models <br>
-
 **Methodological Comparison:** <br>
 Demonstrates the ability to switch between manual coding (Python) and low-code/AutoML platforms, choosing the right tool for the business need <br>
 
-My Contributions:
+**My Contributions:** <br>
 
-Advanced ETL: Deep cleaning and transformation of complex real estate datasets.
-
-Insightful Visualization: Building Power BI dashboards to identify key drivers for the prediction models.
-
-Data Flow Coordination: Ensuring seamless integration between raw data and the modeling environment.
+**Advanced ETL:** Deep cleaning and transformation of complex real estate datasets<br>
+**Insightful Visualization:** Building Power BI dashboards to identify key drivers for the prediction models<br>
+**Data Flow Coordination:** Ensuring seamless integration between raw data and the modeling environment<br>
 
 Deliverables:
 
