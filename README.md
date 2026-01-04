@@ -116,13 +116,11 @@ Demonstrates the ability to switch between manual coding (Python) and low-code/A
 **Insightful Visualization:** Building Power BI dashboards to identify key drivers for the prediction models<br>
 **Data Flow Coordination:** Ensuring seamless integration between raw data and the modeling environment<br>
 
-Deliverables:
+**Deliverables:** <br>
 
 📓 Python Notebook: Custom Modeling (.ipynb)
-
 📄 Technical Report: WatsonX AutoML (.pdf)
-📄 [AutoML Modell (`.pdf`)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))  
-👉 **Structured content available – includes comparison between approaches**
+📄 [Technical Report: WatsonX AutoML (.pdf)](https://github.com/SqueezeU/Portfolio-AI-DS/blob/main/ML%20Prediction/Datos%20de%20viviendas%20en%20alquiler%20en%20la%20ciudad%20de%20Barcelona%20-%20P4%20Regresor%20XGB%20-%20Modelo_2025_1_8_17_23_27.pdf))  
 
 ---
 
