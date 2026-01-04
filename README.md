@@ -46,8 +46,7 @@ Interactive visualizations created in Power BI, focused on exploratory analysis 
 ### Overview
 ![Power BI Overview](Images/Power%20BI%201.png)
 
-<img src="Images/Power%20BI%201.png" style="display:block; margin-bottom:0;">
-<hr style="margin-top:0;">
+---
 
 ### 🚀 [ETL_EDA_KNIME](./ETL-EDA%20KNIME)
 
