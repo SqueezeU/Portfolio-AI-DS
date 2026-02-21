@@ -30,12 +30,12 @@ pip install pymupdf pyinstaller
 
 ### Run from source
 ```bash
-python pdf_tool_app.py
+python pdf_tool_devs.py
 ```
 
 ### Build the .exe yourself
 ```bash
-pyinstaller --onefile --windowed --name "PDF Tool" pdf_tool_app.py
+pyinstaller --onefile --windowed --name "PDF Tool" pdf_tool_devs.py
 ```
 Or just double-click `exe_erstellen.bat`.
 
