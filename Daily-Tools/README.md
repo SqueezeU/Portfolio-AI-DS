@@ -10,7 +10,7 @@ These are practical helpers built with Python that solve real-world problems qui
 
 | Tool | Description | Download |
 |------|-------------|----------|
-| [PDF Tool](./PDF-Tool/) | Rotate, compress & merge PDF files | [⬇️ Download .exe](https://drive.google.com/file/d/12uVATd8V-FWnmokN9TS6_JCaBOIRPh48/view?usp=sharing) |
+| [PDF Tool](./PDF-Tool/) | Rotate, compress & merge PDF files | Available on request |
 
 ---
 
