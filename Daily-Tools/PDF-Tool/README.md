@@ -17,9 +17,7 @@ A lightweight Windows desktop app to fix scanned PDFs: rotate upside-down pages,
 
 ## 🚀 For End Users (no Python required)
 
-Just download and double-click — no installation needed:
-
-👉 **[Download PDF Tool.exe](https://drive.google.com/file/d/12uVATd8V-FWnmokN9TS6_JCaBOIRPh48/view?usp=sharing)**
+👉 Available on request — contact us at [dndlabs.de](https://www.dndlabs.de)
 
 ---
 
