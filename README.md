@@ -72,4 +72,4 @@ garbage=4, deflate=True, deflate_images=True, deflate_fonts=True
 
 ## 📋 License
 
-Free to use and modify. Built by [DND Labs](https://www.dndlabs.de) 🇦🇹
+Free to use and modify. Built by [DND Labs](https://www.dndlabs.de)

@@ -14,4 +14,4 @@ These are practical helpers built with Python that solve real-world problems qui
 
 ---
 
-> More tools coming soon. Built by [DND Labs](https://www.dndlabs.de) 🇦🇹
+> More tools coming soon. Built by [DND Labs](https://www.dndlabs.de)
